@@ -93,7 +93,7 @@ def mainModel(df):
     st.write("As result, we will do more advanced comparaison between those two models")
     st.subheader("ROC curve of the best models")
 
-    st.image("roc.jpg")
+    st.image("roc.JPG")
     st.markdown('<strong style = "padding-left : 40%;">ROC Curve </strong>', unsafe_allow_html=True)
 
     st.subheader("Now it is time to pick your prefered Model")
